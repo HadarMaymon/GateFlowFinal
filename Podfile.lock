@@ -1,0 +1,16 @@
+PODS:
+  - SwiftQRCodeGenerator (2.0.2)
+
+DEPENDENCIES:
+  - SwiftQRCodeGenerator
+
+SPEC REPOS:
+  trunk:
+    - SwiftQRCodeGenerator
+
+SPEC CHECKSUMS:
+  SwiftQRCodeGenerator: cc02fed209335064d0b0dd61b2a0874b9bc6bd5a
+
+PODFILE CHECKSUM: 674002b184efe6ae11df7c19dfc64048ec574afe
+
+COCOAPODS: 1.15.2
